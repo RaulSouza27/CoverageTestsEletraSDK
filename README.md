@@ -5,4 +5,4 @@
 ### EletraSDK
 Nas implementações há 9613 linhas nas quais 5152 linhas estão cobertas por testes, isso corresponde a 53% de linhas cobertas com testes, conforme o grafico abaixo:
 
-![Gráfico das cobeturas de teste do EletraSDK](https://github.com/RaulSouza27/CoverageTestesBackendOlimpoNG/blob/main/Images/Bulkmeter.png)
+![Gráfico das cobeturas de teste do EletraSDK](https://github.com/RaulSouza27/CoverageTestsEletraSDK/blob/main/Images/EletraSDK.png)
